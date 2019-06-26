@@ -1,9 +1,9 @@
 <?php
 
 
-$access_token = 'Channel_access_token';
+$access_token = '9d5dbc90c73eef6a3ebd56a3a16e0dd9';
 
-$userId = 'Your_User_ID';
+$userId = 'Ue7305a5aaef8f38f833ca3c948c1175c';
 
 $url = 'https://api.line.me/v2/bot/profile/'.$userId;
 
